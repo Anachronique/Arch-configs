@@ -4,7 +4,7 @@
   <li>The GTK is called Sweet Dark and can be found in <a href="https://github.com/EliverLara/Sweet">here</a>. </li>
   <li><a href="https://github.com/FortAwesome/Font-Awesome">Font Awesome 5</a> and <a href="https://github.com/stark/siji">Siji font</a> are essentials for polybar to work.
   <li>The terminal emulator is Gnome Terminal.</li>
-  <li>OOh My ZSH's theme is the default.</li>
+  <li>Oh My ZSH's theme is the default.</li>
   
   
 </ul>
